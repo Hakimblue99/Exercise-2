@@ -1,0 +1,17 @@
+
+public class Runnable {
+  
+    public static void main(String[] args)
+    {
+       string sentence[]=new string[7];
+       sentence[0]="It";//initialization  
+       sentence[1]="is";  
+       sentence[2]="recommended";  
+       sentence[3]="to";  
+       sentence[4]="use";
+       sentence[5]="Calender";
+       sentence[6]="class.";
+    }
+  
+ 
+}
